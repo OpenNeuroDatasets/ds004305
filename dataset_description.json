@@ -1,7 +1,7 @@
 {
-    "Name": "dMRI_LPS_invivo",
+    "Name": "Mapping neuroinflammation in vivo with diffusion-MRI in rats after systemic lipopolysaccharide administration",
     "BIDSVersion": "1.2.2",
-    "License": "CC BY-SA",
+    "License": "CC0",
     "Authors": [
         "Eugene Kim",
         "Ines Carreira Figueiredo",
