@@ -1,4 +1,4 @@
-pasub-Rticipant_id	species	strain	sex	group
+participant_id	species	strain	sex	group
 sub-R01	rattus norvegicus	Sprague Dawley	male	veh
 sub-R02	rattus norvegicus	Sprague Dawley	male	lps
 sub-R03	rattus norvegicus	Sprague Dawley	male	lps-nr
